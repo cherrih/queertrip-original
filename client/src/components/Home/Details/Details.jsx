@@ -77,12 +77,6 @@ class Details extends React.Component {
           <div className="buffer"></div>
         </div>
         <CityList cities={this.props.cities} handleCityClick={this.props.handleCityClick}/>
-        <div className="orgs">
-          <div>
-            Here's a short list of organizations doing work to support queer and trans people, with special consideration for: youth empowerment, homelessness, mental health, incarceration, and structural racism. We are not partners with any of them, we just believe in their work.
-          </div>
-          <img src="https://s3-us-west-1.amazonaws.com/queertrip/Rainbow.png"/>
-        </div>
       </div>
     )
   }
