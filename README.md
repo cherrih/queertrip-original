@@ -4,7 +4,7 @@
 
 ## Press Release
 
-  - https://github.com/cherrih/hrsf107-mvp/blob/master/_PRESS-RELEASE.md
+  - https://github.com/cherrih/queertrip/blob/master/_PRESS-RELEASE.md
 
 ## Table of Contents
 
